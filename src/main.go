@@ -15,7 +15,8 @@ import (
 func main() {
 	// fmt.Println("Hello World")
 	// demoVariables()
-	shortHandDec()
+	// shortHandDec()
+	demoConstants()
 }
 
 func demoVariables() {
