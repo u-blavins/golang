@@ -16,7 +16,8 @@ func main() {
 	// fmt.Println("Hello World")
 	// demoVariables()
 	// shortHandDec()
-	demoConstants()
+	// demoConstants()
+	demoFunctions()
 }
 
 func demoVariables() {
